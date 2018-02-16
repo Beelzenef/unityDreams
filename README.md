@@ -25,7 +25,7 @@ Otro _cookbook_ de Unity3D en la red
 * [Cilindro con movimiento PingPong()](codigo/PingPongCilindro.cs)
 * [Controlando movimientos con GUI](codigo/GUIChanged.cs)
 * [Movimiento físico](codigo/MovFisico.cs)
-* [Control de _GameObjects_ hijos](codigo/.cs)
+* [Control de _GameObjects_ hijos](codigo/controlHijos.cs)
 
 ### Comunicación remota
 
