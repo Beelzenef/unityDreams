@@ -26,6 +26,7 @@ Otro _cookbook_ de Unity3D en la red
 * [Controlando movimientos con GUI](codigo/GUIChanged.cs)
 * [Movimiento físico](codigo/MovFisico.cs)
 * [Control de _GameObjects_ hijos](codigo/controlHijos.cs)
+* [Control de animaciones](codigo/controlAnimaciones.cs)
 
 ### Comunicación remota
 
