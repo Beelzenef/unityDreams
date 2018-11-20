@@ -46,3 +46,11 @@ Otro _cookbook_ de Unity3D en la red
 
 * [roll the ball](proyectos/rollTheBall.md)
 * [_re-Overboard!_](https://github.com/Beelzenef/re-Overboard)
+
+### Tutoriales, guías, enlaces...
+
+* [Character selection VFX](https://80.lv/articles/character-selection-vfx-in-unity/)
+* [2D shooting in Unity 🔫](https://youtu.be/wkKsl1Mfp5M)
+* [A tutorial for the sprite editor](youtu.be/gbgIA3pwpHc)
+* [Best practice guides in Unity ⚙](https://docs.unity3d.com/Manual/BestPracticeGuides.html)
+* [Making 2D games in Unity](https://youtu.be/on9nwbZngyw)
