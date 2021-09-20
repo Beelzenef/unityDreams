@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOV_T2E7", "MOV_T2E7.csproj", "{3DE03BDE-0E49-044B-029F-701E90B53559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE03BDE-0E49-044B-029F-701E90B53559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE03BDE-0E49-044B-029F-701E90B53559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE03BDE-0E49-044B-029F-701E90B53559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE03BDE-0E49-044B-029F-701E90B53559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

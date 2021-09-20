@@ -1,0 +1,52 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 520 (ID=0x1040)
+    Vendor:   NVIDIA
+    VRAM:     969 MB
+    Driver:   23.21.13.9077
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Beelzenef\Desktop\Guzman_Elena_MOVT5\GuzmanElena_MOVT5\ejecutable\tema5_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Beelzenef\Desktop\Guzman_Elena_MOVT5\GuzmanElena_MOVT5\ejecutable\tema5_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Beelzenef\Desktop\Guzman_Elena_MOVT5\GuzmanElena_MOVT5\ejecutable\tema5_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Beelzenef\Desktop\Guzman_Elena_MOVT5\GuzmanElena_MOVT5\ejecutable\tema5_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Beelzenef\Desktop\Guzman_Elena_MOVT5\GuzmanElena_MOVT5\ejecutable\tema5_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Beelzenef\Desktop\Guzman_Elena_MOVT5\GuzmanElena_MOVT5\ejecutable\tema5_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Beelzenef\Desktop\Guzman_Elena_MOVT5\GuzmanElena_MOVT5\ejecutable\tema5_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Beelzenef\Desktop\Guzman_Elena_MOVT5\GuzmanElena_MOVT5\ejecutable\tema5_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\Beelzenef\Desktop\Guzman_Elena_MOVT5\GuzmanElena_MOVT5\ejecutable\tema5_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Beelzenef\Desktop\Guzman_Elena_MOVT5\GuzmanElena_MOVT5\ejecutable\tema5_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.214460 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1fe8 -> priority: 1 
+  Thread -> id: af8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.197767 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 245.
+Total: 0.208681 ms (FindLiveObjects: 0.028301 ms CreateObjectMapping: 0.021148 ms MarkObjects: 0.143993 ms  DeleteObjects: 0.014617 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.245069 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.339924 ms (FindLiveObjects: 0.036698 ms CreateObjectMapping: 0.027679 ms MarkObjects: 0.270260 ms  DeleteObjects: 0.004354 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.844368 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 526.
+Total: 0.297006 ms (FindLiveObjects: 0.043229 ms CreateObjectMapping: 0.015861 ms MarkObjects: 0.221122 ms  DeleteObjects: 0.015861 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.845301 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 388.
+Total: 1.155992 ms (FindLiveObjects: 0.048205 ms CreateObjectMapping: 0.049449 ms MarkObjects: 0.460593 ms  DeleteObjects: 0.597122 ms)
+

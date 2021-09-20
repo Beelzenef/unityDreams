@@ -1,0 +1,8 @@
+Todos los ejercicios vienen con la tecla ESCAPE como forma de salida.
+Si pulsas ESCAPE en un ejercicio, vuelves al menú principal.
+Si pulsas ESCAPE en el menú principal, cierras la aplicación.
+
+El juego FPS y el juego de cubos y esferas de varios tipos recargan el juego al pulsar R
+El juego FPS dispara con P
+
+¡Disfruta de las partidas!

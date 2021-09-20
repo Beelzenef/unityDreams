@@ -1,0 +1,1 @@
+Todos los ejecutables cuentan con un método de salida pulsando la tecla ESCAPE
